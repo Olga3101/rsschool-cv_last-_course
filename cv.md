@@ -8,7 +8,7 @@
 * About myself: Hoo... it's so difficult. Usually  my spheres of interest are science and research like Physical Chemistry of Surface,
 Molecular Technologies, Nanotechnology in Medicine, Synthesis and characterization of inorganic nanoparticles. But sometimes you need try something "consciousness-expanding"
 like course of RSS. It is just a challenge to train my brain and may be it give me new opportunities in my live.
-* **Personal qualities:** purposefulness, responsibility, accuracy, skill to communicate, skill competently to plan and carry out experimental and research work. And I found of learning.
+* **Personal qualities:** purposefulness, responsibility, accuracy, skill to communicate.
 * **Skills:** I am just learning
 * **Code examples:**
 * **Academic Preparation and Education**
