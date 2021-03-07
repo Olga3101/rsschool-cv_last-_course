@@ -2,8 +2,8 @@
 * **Name:** Olga A. Inozemtseva
 *  **Date of birth:** January 31th, 1981
 * **Birthplace:** Saratov, Russia
-* **Correspondence address:**  58/76, Novouzenskaya St., Apt. 47, Saratov, 410017, Russia_
-* **Tel.:** 0079873171847*
+* **Correspondence address:**  58/76, Novouzenskaya St., Apt. 47, Saratov, 410017, Russia
+* **Tel.:** 0079873171847
 * **E-mail:** inozemtsevaoa@mail.ru
 * About myself: Hoo... it's so difficult. Usually  my spheres of interest are science and research like Physical Chemistry of Surface,
 Molecular Technologies, Nanotechnology in Medicine, Synthesis and characterization of inorganic nanoparticles. But sometimes you need try something "consciousness-expanding"
