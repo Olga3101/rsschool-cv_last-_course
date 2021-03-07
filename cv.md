@@ -10,7 +10,7 @@ Molecular Technologies, Nanotechnology in Medicine, Synthesis and characterizati
 like course of RSS. It is just a challenge to train my brain and may be it give me new opportunities in my live.
 * **Personal qualities:** purposefulness, responsibility, accuracy, skill to communicate.
 * **Skills:** I am just learning
-* **Code examples:**
+* **Code samples:**
 * **Academic Preparation and Education**
 * 2006 - Candidate of Science (PhD), specialty: “Physical chemistry”
 * 2003-2006 Postgraduate student at Saratov State University
