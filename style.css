@@ -1,0 +1,16 @@
+body {
+  background: #f06d06;
+}
+
+main {
+  background: white;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.center {
+  margin: 0 auto;
+  width: 600px;
+  background: #f06d06;
+  	padding: 10px;
+}
